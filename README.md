@@ -8,7 +8,7 @@ Insights and reccomendations are provided on the following key areas:
 * Product level Analysis: an analysis on various products, understanding their impact on sales.
 
 Tools Used
-* Downloas Tableau [here](https://www.tableau.com/products/desktop)
+* Download Tableau [here](https://www.tableau.com/products/desktop)
 * Microsoft Excel: For data preparation and formatting
 
 ## Data Structure Overview
