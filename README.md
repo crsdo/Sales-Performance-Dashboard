@@ -14,6 +14,7 @@ Tools Used
 ## Data Structure Overview
 
 The database structure as seen below consists of four tables: orders, products, customers, location, with a row total of 13,317.
+
 ![image](https://github.com/user-attachments/assets/b783a42b-f6df-4a38-9943-3472b6aad789)
 
 ## Ececutive Summary
